@@ -35,4 +35,3 @@ void show_num(int a) {
   }
 
 }
-                       
